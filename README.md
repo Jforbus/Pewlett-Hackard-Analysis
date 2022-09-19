@@ -17,7 +17,8 @@ Pewlett Hackard has requested the following analysis be conducted to aid in the 
 When we look at the results of this analysis we see 4 major points revealed in the data.
 
     - 70% (50,842) of the retirement elegible employees are in Senior positions.
-    ![senior_positions](https://github.com/Jforbus/Pewlett_Hackard_Analysis/blob/main/Data/senior_positions.png)
+![senior_positions](https://github.com/Jforbus/Pewlett_Hackard_Analysis/blob/main/Data/senior_positions.png)
+    
     - 7 different job titles are due to be affected by retirements. 
     - A relatively small number of employees are retiring from low level positions.
     - 1,549 employees are eligible for the mentorship program.
